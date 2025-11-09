@@ -4,5 +4,11 @@
         "supabase_url": "https://lgxzqlxlkzvzyybsubxj.supabase.co",
         "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxneHpxbHhsa3p2enl5YnN1YnhqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg5OTIxOTcsImV4cCI6MjA3NDU2ODE5N30.5yCh0tTi51Ve2A1N9MAA9cZXnw-_QdViRDLaunwWTlQ",
         "table_name": "keep-alive"
+    },
+    {
+        "name": "DOCBUDDY",
+        "supabase_url": "https://rcnrkikysibwmctqyplz.supabase.co",
+        "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJjbnJraWt5c2lid21jdHF5cGx6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM2OTcxMzcsImV4cCI6MjA1OTI3MzEzN30.CkWE2TOLaENcCkuA_-gEW3KGOcL3GQzsN58ce5As1Eo",
+        "table_name": "keep-alive"
     }
 ]

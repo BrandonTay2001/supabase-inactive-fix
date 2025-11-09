@@ -42,10 +42,17 @@ def main():
         key = config.get('supabase_key')
         table_name = config.get('table_name', 'KeepAlive')
 
+        logging.info(url)
+        logging.info(key)
+        logging.info(table_name)
+
         # If using environment variables for keys
         key_env_var = config.get('supabase_key_env')
         if key_env_var:
             key = os.getenv(key_env_var)
+
+        logging.info(f"Using Supabase URL: {url}")
+        logging.info(f"Using Supabase Key: {key}")
 
         if not url or not key:
             logging.error(f"Supabase URL or Key missing for '{name}'. Skipping.")
